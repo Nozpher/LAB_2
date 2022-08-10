@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <clocale>
+#include <cmath>
 using namespace std;
 
 
